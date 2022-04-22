@@ -1,0 +1,17 @@
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\bin\Debug\net6.0-windows\EmailTest.exe
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\bin\Debug\net6.0-windows\EmailTest.deps.json
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\bin\Debug\net6.0-windows\EmailTest.runtimeconfig.json
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\bin\Debug\net6.0-windows\EmailTest.dll
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\bin\Debug\net6.0-windows\EmailTest.pdb
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\obj\Debug\net6.0-windows\EmailTest.csproj.AssemblyReference.cache
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\obj\Debug\net6.0-windows\EmailTest.Form1.resources
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\obj\Debug\net6.0-windows\EmailTest.csproj.GenerateResource.cache
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\obj\Debug\net6.0-windows\EmailTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\obj\Debug\net6.0-windows\EmailTest.AssemblyInfoInputs.cache
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\obj\Debug\net6.0-windows\EmailTest.AssemblyInfo.cs
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\obj\Debug\net6.0-windows\EmailTest.csproj.CoreCompileInputs.cache
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\obj\Debug\net6.0-windows\EmailTest.dll
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\obj\Debug\net6.0-windows\refint\EmailTest.dll
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\obj\Debug\net6.0-windows\EmailTest.pdb
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\obj\Debug\net6.0-windows\EmailTest.genruntimeconfig.cache
+C:\Users\dstickel\Desktop\Saved Source\EmailTest\EmailTest\obj\Debug\net6.0-windows\ref\EmailTest.dll
